@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/website/homepage/","tags":["gardenEntry"],"updated":"2024-11-26T13:47:46.208-05:00"}
+{"dg-publish":true,"permalink":"/website/homepage/","tags":["gardenEntry"],"updated":"2024-11-26T14:15:38.338-05:00"}
 ---
 
 202411260947
@@ -10,7 +10,7 @@ Tags:
 
 # !! homepage
 
-this is my personal second brain. i like to write about random nonsense but i hope some of this stuff is kinda interesting. you get a little glimpse into my mind, which also means that most of it is written in really bad english and no proof reading
+this is my personal second brain. i like to write about random nonsense but i hope some of this stuff is kinda interesting. you get a little glimpse into my mind, which also means that most of it is written in really bad english and no proof reading. sorry if i'm incoherent, half of this is written right before i go to bed and the other half is written right when i wake up.
 
 the objective of this is to just capture all of my thoughts and paste it into a public platform. i try to use a zettelkasten method of capturing notes, but i don't think i use it as designed so take it with a grain of salt. some of the pages here are resources, so theres a portion of content that's pasted or taken from someone who isn't me. i try to link to the original post and tag it as a resource.
 
