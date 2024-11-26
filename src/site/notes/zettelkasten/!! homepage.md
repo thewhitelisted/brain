@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/homepage/","tags":["gardenEntry"],"updated":"2024-11-26T13:20:51.473-05:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/homepage/","tags":["gardenEntry"],"updated":"2024-11-26T13:21:53.413-05:00"}
 ---
 
 202411260947
@@ -22,6 +22,6 @@ also kinda important thing: by no means is anything i write here actual advice, 
 
 **name**: christopher lee
 **home**: richmond hill, on, can
-**major**: math and business administration
+**major**: math and business administration @ waterloo + laurier
 **aspirations**: becoming a polymath
 **hobbies**: photography, self-learning, cubing
