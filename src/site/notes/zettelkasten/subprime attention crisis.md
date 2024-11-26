@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/subprime-attention-crisis/"}
+{"dg-publish":true,"permalink":"/zettelkasten/subprime-attention-crisis/","updated":"2024-11-26T12:04:48.925-05:00"}
 ---
 
 202411151512

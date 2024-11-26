@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/how-to-be-good-at-school/"}
+{"dg-publish":true,"permalink":"/zettelkasten/how-to-be-good-at-school/","updated":"2024-11-26T13:27:02.267-05:00"}
 ---
 
 202411202045
@@ -85,3 +85,5 @@ have a growth mindset, and never tell yourself you're not good at anything. i ha
 
 
 remember, it's not always about effort, it's about results and efficiency
+
+-chris

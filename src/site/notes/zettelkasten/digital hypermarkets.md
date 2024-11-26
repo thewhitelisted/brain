@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/digital-hypermarkets/"}
+{"dg-publish":true,"permalink":"/zettelkasten/digital-hypermarkets/","updated":"2024-11-26T13:26:53.491-05:00"}
 ---
 
 202411202130
@@ -15,3 +15,5 @@ from reading [[zettelkasten/subprime attention crisis\|subprime attention crisis
 furthermore, websites like amazon emulate an actual hypermarket, modelling a virtual mall where consumers can find anything that the mind can dream of. this virtual hypermarket is far more viral than a traditional hypermarket by factor of convenience and reach. convenience referring to the ease of access that a person has to the hypermarket, and reach referring to the hypermarkets ability to market any possible item to any possible person. 
 
 we have reached a point where nobody needs anything anymore. everyone is consuming in excess, and nobody knows when to stop. digital hypermarkets create a need and fulfill it, but at a much greater rate than conventional hypermarkets. you can already see it in society, where everyone owns things but they can't quite remember why. or when hoarders have tons of miscellaneous items lying around their homes. i think we've reached a society where that will be the new norm.
+
+-chris

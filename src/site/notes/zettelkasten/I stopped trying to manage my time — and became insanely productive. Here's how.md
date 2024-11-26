@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/i-stopped-trying-to-manage-my-time-and-became-insanely-productive-here-s-how/"}
+{"dg-publish":true,"permalink":"/zettelkasten/i-stopped-trying-to-manage-my-time-and-became-insanely-productive-here-s-how/","updated":"2024-11-26T11:01:04.043-05:00"}
 ---
 
 202411260803
