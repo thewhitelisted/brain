@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/homepage/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/zettelkasten/homepage/","tags":["gardenEntry"],"updated":"2024-11-26T13:20:51.473-05:00"}
 ---
 
 202411260947
@@ -17,3 +17,11 @@ the objective of this is to just capture all of my thoughts and paste it into a 
 on the left side of the page you can see a nav-bar that you can use to go through my notes
 
 also kinda important thing: by no means is anything i write here actual advice, it's just my personal thoughts and methods.
+
+## about-me
+
+**name**: christopher lee
+**home**: richmond hill, on, can
+**major**: math and business administration
+**aspirations**: becoming a polymath
+**hobbies**: photography, self-learning, cubing
