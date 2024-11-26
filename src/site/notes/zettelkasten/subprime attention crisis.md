@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/subprime-attention-crisis/","updated":"2024-11-26T12:04:48.925-05:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/subprime-attention-crisis/","updated":"2024-11-26T13:50:27.599-05:00"}
 ---
 
 202411151512
 
-Status: #resource
+Status: #resource #in-progress
 
 Tags: [[books\|books]]
 
