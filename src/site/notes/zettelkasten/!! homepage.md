@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/homepage/","tags":["gardenEntry"],"updated":"2024-11-26T13:21:53.413-05:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/homepage/","tags":["gardenEntry"],"updated":"2024-11-26T13:31:14.044-05:00"}
 ---
 
 202411260947
@@ -16,7 +16,7 @@ the objective of this is to just capture all of my thoughts and paste it into a 
 
 on the left side of the page you can see a nav-bar that you can use to go through my notes
 
-also kinda important thing: by no means is anything i write here actual advice, it's just my personal thoughts and methods.
+also kinda important thing: by no means is anything i write here actual advice or credible information, it's just my personal thoughts and methods.
 
 ## about-me
 
