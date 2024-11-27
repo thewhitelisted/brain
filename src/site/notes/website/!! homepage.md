@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/website/homepage/","tags":["gardenEntry"],"updated":"2024-11-26T14:15:38.338-05:00"}
+{"dg-publish":true,"permalink":"/website/homepage/","tags":["gardenEntry"],"updated":"2024-11-27T09:11:23.156-05:00"}
 ---
 
 202411260947
@@ -24,4 +24,4 @@ also kinda important thing: by no means is anything i write here actual advice o
 **home**: richmond hill, on, can
 **major**: math and business administration @ waterloo + laurier
 **aspirations**: becoming a [[website/polymath\|polymath]]
-**hobbies**: photography, self-learning, cubing
+**hobbies**: [[website/gallery\|photography]], self-learning, cubing
