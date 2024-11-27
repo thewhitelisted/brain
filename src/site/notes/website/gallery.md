@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/website/gallery/","updated":"2024-11-27T09:10:56.521-05:00"}
+{"dg-publish":true,"permalink":"/website/gallery/","updated":"2024-11-27T09:13:28.138-05:00"}
 ---
 
 202411270833
@@ -10,7 +10,7 @@ Tags:
 
 # gallery
 
-i like to take really bad photos so bear with me. these are some of the ones that aren't terrible and i like them. ill also give a bit of background info. fyi the order is not based on date, i just pasted in a bunch from my camera roll randomly.
+i like to take really bad photos so bear with me. these are some of the ones that aren't terrible and i like them. ill also give a bit of background info. fyi the order is not based on date, i just pasted in a bunch from my camera roll randomly. ALSO BEAR WITH THE POOR QUALITY I THINK THEY GET SCALED UP WAY PAST THEIR ORIGINAL RESOLUTION.
 
 fig. 1: cool steak dinner. i think this was with my sister for her birthday at this fancy place she likes. i don't really enjoy fancy places for food, but this was a cool treat.
 ![IMG_2191.jpg](/img/user/attachments/IMG_2191.jpg)
