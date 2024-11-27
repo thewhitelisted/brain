@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/website/gallery/","updated":"2024-11-27T09:13:28.138-05:00"}
+{"dg-publish":true,"permalink":"/website/gallery/","updated":"2024-11-27T09:14:53.558-05:00"}
 ---
 
 202411270833
@@ -56,3 +56,5 @@ fig. 14: i think this is when i realized i was a city boy at heart. that seems r
 
 fig. 15: in my cousin's shared house. such a cool vibe with all the photos and the surfboards. i really got that community vibe from the kind of stuff they had around the house. got inspo for when i'm renting with friends in uni.
 ![IMG_3868.jpg](/img/user/attachments/IMG_3868.jpg)
+
+-chris
