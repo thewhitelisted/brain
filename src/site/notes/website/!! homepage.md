@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/website/homepage/","tags":["gardenEntry"],"updated":"2024-11-27T09:19:35.952-05:00"}
+{"dg-publish":true,"permalink":"/website/homepage/","tags":["gardenEntry"],"updated":"2024-11-27T09:22:05.303-05:00"}
 ---
 
 202411260947
@@ -17,8 +17,6 @@ the objective of this is to just capture all of my thoughts and paste it into a 
 on the left side of the page you can see a nav-bar that you can use to go through my notes
 
 also kinda important thing: by no means is anything i write here actual advice or credible information, it's just my personal thoughts.
-
--chris
 
 ## about-me
 
