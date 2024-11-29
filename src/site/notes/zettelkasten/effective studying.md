@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/effective-studying/","updated":"2024-11-29T12:06:17.611-05:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/effective-studying/","updated":"2024-11-29T12:07:34.476-05:00"}
 ---
 
 202411291203
 
 Status: #idea
 
-Tags:
+Tags: [[productivity\|productivity]]
 
 # effective studying
 

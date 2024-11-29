@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/time-management/","updated":"2024-11-29T12:06:25.968-05:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/time-management/","updated":"2024-11-29T12:07:15.421-05:00"}
 ---
 
 202411291205
 
 Status: #idea
 
-Tags:
+Tags:[[productivity\|productivity]]
 
 # time management
 

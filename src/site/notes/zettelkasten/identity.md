@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/identity/","updated":"2024-11-29T12:06:22.654-05:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/identity/","updated":"2024-11-29T12:07:26.997-05:00"}
 ---
 
 202411291204
 
 Status: #idea
 
-Tags:
+Tags: [[productivity\|productivity]] [[philosophy\|philosophy]]
 
 # identity
 
