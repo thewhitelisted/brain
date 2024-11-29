@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/website/homepage/","tags":["gardenEntry"],"updated":"2024-11-27T09:22:05.303-05:00"}
+{"dg-publish":true,"permalink":"/website/homepage/","tags":["gardenEntry"],"updated":"2024-11-29T11:58:43.268-05:00"}
 ---
 
 202411260947
@@ -10,13 +10,7 @@ Tags:
 
 # !! homepage
 
-this is my personal second brain. i like to write about random nonsense but i hope some of this stuff is kinda interesting. you get a little glimpse into my mind, which also means that most of it is written in really bad english and no proof reading. sorry if i'm incoherent, half of this is written right before i go to bed and the other half is written right when i wake up.
-
-the objective of this is to just capture all of my thoughts and paste it into a public platform. i try to use a zettelkasten method of capturing notes, but i don't think i use it as designed so take it with a grain of salt. some of the pages here are resources, so theres a portion of content that's pasted or taken from someone who isn't me. i try to link to the original post and tag it as a resource.
-
-on the left side of the page you can see a nav-bar that you can use to go through my notes
-
-also kinda important thing: by no means is anything i write here actual advice or credible information, it's just my personal thoughts.
+im bad at writing but im interested at learning. so what im hoping is that if i write a lot about what im learning, i can learn and get better at writing at the same time! some of the stuff here is just opinions, others are resources that i used, and sometimes i include information about my daily life.
 
 ## about-me
 
