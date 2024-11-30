@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/my-time-allotment/","updated":"2024-11-30T09:41:46.351-05:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/my-time-allotment/","updated":"2024-11-30T09:52:50.186-05:00"}
 ---
 
 202411300931
 
 Status: #idea
 
-Tags:
+Tags: [[productivity\|productivity]] [[philosophy\|philosophy]]
 
 # my time allotment
 
