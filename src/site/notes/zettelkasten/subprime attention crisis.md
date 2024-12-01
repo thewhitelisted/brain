@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/subprime-attention-crisis/","updated":"2024-11-26T13:51:14.362-05:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/subprime-attention-crisis/","updated":"2024-12-01T10:45:13.919-05:00"}
 ---
 
 202411151512
@@ -10,6 +10,7 @@ Tags: [[books\|books]]
 
 # subprime attention crisis
 
+## the plumbing
 * the ever-expanding reach of advertising is responsible for the "widespread sense of attentional crisis" produced by the modern technological environment.
 	* disinformation, profiling, and inflammatory content
 	* advertisements serve as the income for online platforms including search engines. they're more likely to be biased towards advertisers rather than consumers
@@ -42,4 +43,63 @@ Tags: [[books\|books]]
 				* control the kinds of advertisers able to gain access to inventory
 	* once configured, programmatic advertising relies on algorithm interactions to make choices of bids on advertising inventory
 * failure of the infrastructure would cause significant negative impact on the internet. companies would have to change their models to most likely be paid services
-* 
+
+## market convergence
+* there is nothing essential about the internet as we know it. the internet is not inherently open or democratizing, nor is it inherently closed or authoritarian. 
+* the internet has been actively designed in each stage of its history
+* a compounding set of choices resulted in the experience we have today. 
+* why does the advertising market resemble the financial market?
+* early day advertising was nothing like the way it is today. it had a sponsor model for advertisements. 
+* search engines changed the model.
+	* they had a lot of members who relied on them to find things for them. they didn't have a way to make reliable money
+	* early on people didn't anticipate how much advertising would make them.
+		* licensing of search technology
+		* hardware product that would allow companies to search their own operations very quickly (Google quick search box)
+	* however, advertising made way more money
+	* to do advertising, automation was required.
+		* adwords: enabled advertisers to place promoted listings alongside search results
+		* advertising auctions: bidding against each other for advertising spots on search results
+		* algorithm that assessed the quality of ads by looking at various elements, predicting whether users were likely to click on it. drives the value of the bids in auction
+	* system was intended to align incentives such that advertisers would create ads that were relevant and useful
+	* all of this was made possible by software engineers and economists
+	* began to create catagorizations that align with the stock market. words like high-cap, mid-cap, low-cap to generate their own versions of the Dow Jones Industrial Average
+	* trading systems began to be created, and software for those systems as well
+* influence of finance onto the business model of the internet
+	* commercialization of the internet
+	* needed to become financially sustainable, so they went to bundling user attention online and selling it
+	* distinguishing commercialization of the internet from normal commercialization
+		* earlier generations of advertisers bought and sold attention, but not at the speed, scale, characteristics of today's market
+		* what is different is the extent to which the system has enabled the bundling of a multitude of tiny moments of attention into discrete, liquid assets that can be bought and sold effortlessly.
+* steps to commodification
+	* standardization
+		* allows the market to accommodate a larger number of players. 
+		* buyers cannot easily assess what they're buying. this makes it easier.
+		* by creating standards, everyone knows what they're getting. increases the buyers and sellers
+	* abstraction
+		* standards are disconnected from the process of production and unique identity of producers
+		* nobody needs to know specific characteristics anymore
+		* everything is interchangeable.
+		* enables arrangements that might never otherwise emerge
+		* facilitates speculation
+			* groups with little interest in production or consumption might choose to engage in buying and selling to make money from fluctuations in price
+* commodification of our attention
+	* the maturation of the online marketplace for attention closely mirrors the development of real markets
+	* the emergence of online platforms resulted in a standardization for attention markets. (ad impression measurement guidelines)
+	* breaking down attention into discrete units and exchanging them in the marketplace
+	* standard definitions get created as well. "delivered" referring to when a webpage loads. turns into successfully delivered only of the user actually pauses and looks at it
+	* specific standards such as "viewable impression" which only occurs when more than 50% of the pixels in an advertisement occupy the viewable space of a browser page for more than or equal to one continuous second after the advertising renders.
+	* the commodification creates a fluid marketplace where everything is discrete, comparable pieces.
+	* attention is now abstract. it is now possible to purchase attention without knowing where and how that attention is produced
+	* capturing desired attention at minimal cost
+	* gives rise to a set of incentives that can cause such marketplaces to inherit some of the pathologies observed in financial markets if under the right conditions
+* relations between financial market crashes and the current attention market
+* differences between financial markets and attention markets
+	* bidding over the right to show something to someone vs bought and sold
+	* consumed at the point it is acquired vs being able to hold inventory
+	* value based on whether it shapes behavior vs financial factors
+* the mechanism of a market crash do not depend on these differences
+* opaque markets
+	* allow expectations about a market to diverge from reality
+	* things can get worse without people knowing
+	* allows things to change in secret
+	* can cause errors in valuation, inflation, and irrational levels of market confidence
