@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/subprime-attention-crisis/","updated":"2024-12-01T10:45:13.919-05:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/subprime-attention-crisis/","updated":"2024-12-02T20:35:26.791-05:00"}
 ---
 
 202411151512
@@ -103,3 +103,43 @@ Tags: [[books\|books]]
 	* things can get worse without people knowing
 	* allows things to change in secret
 	* can cause errors in valuation, inflation, and irrational levels of market confidence
+
+## Opacity
+* Does advertising work?
+	* how does one know that the advertising messages being broadcast actually influence people
+	* there's no simple way of knowing the role of advertising in physical forms such as billboards
+	* online ads are traceable, trackable, and thoroughly quantified
+	* selling point for digital advertising
+* advertisements can be specifically targeted to certain audiences
+* we can measure all of the metrics of success for an ad, and it allows advertisers to accomplish feats of marketing that would have been prohibitively expensive or otherwise impossible in a pre-internet era
+* overall, the market stays opaque
+	* wealth of tracking data doesn't help advertisers determine a fair going price for reaching certain types of people
+* opacity permits market bubbles to form
+* modern online advertising remains deeply opaque on three froms
+	* automation of marketplace
+	* creation of dark pools of liquidity where advertising inventory is bought and sold outside public eye
+	* dominance of platforms like facebook and google, with new layers of opacity
+* algorithmic trading
+	* ad exchanges reach the speed they do through automation
+	* advertisers and publishers program systems that automatically offer and price ad inventory in the marketplace
+	* they can set minimum prices, rules, and other preferences
+	* allows online advertising exchanges to deliver large quantities of inventory day and night
+	* brand safety issues due to opacity remain a large problem for automation.
+	* challenging to know where an ad ends up and why
+* dark pools
+	* not knowing where or why ads end up where they do is bad
+	* dark pools are markets where no public info is available
+	* create abusable opacity
+	* insider trading and market
+	* changes potential value of an ad without people knowing
+* new intermediaries
+	* middleman role
+	* disintermediation is good, but now the companies such as google and facebook have become the new intermediaries
+	* increases opacity because the market is now dependent on a small number of platforms
+	* lack of transparency with company and public
+* why opacity matters
+	* why should we care?
+	* it's a key precondition for market failure
+	* participants of the market cannot accurately assess the value of things being exchanged
+	* obscuring things for the participants leads to overinflation/underinflation.
+	* determines the futures of these markets
