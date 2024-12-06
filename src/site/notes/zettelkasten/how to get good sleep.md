@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/how-to-get-good-sleep/","updated":"2024-11-26T13:27:07.735-05:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/how-to-get-good-sleep/","updated":"2024-12-05T19:41:46.271-05:00"}
 ---
 
 202411202126
@@ -40,7 +40,7 @@ the evening routine actually starts around 3 hours before you sleep. this is the
 
 the next cutoff is 2 hours before you sleep. 2 hours before you sleep you should stop doing work. from this point on, any tasks that you do should be getting ready for bed, journaling, or something you enjoy doing. this is also the time to dim the lights and be in a darker environment.
 
-the final cutoff is 1 hour before you sleep. after this point, you should be taking any nighttime supplements you may have, and turning off your phone for the final time of the night. the blue light from your phone can negatively affect your ability to fall asleep, however some are unaffected by this. i would avoid taking melatonin because it could suppress hormone secretion. however, if you want to quickly adjust to the schedule, this is the way to do it.
+the final cutoff is 1 hour before you sleep. after this point, you should be taking any nighttime supplements you may have (ie melatonin or magnesium), and turning off your phone for the final time of the night. the blue light from your phone can negatively affect your ability to fall asleep, however some are unaffected by this. i would avoid taking melatonin because it could suppress hormone secretion. however, if you want to quickly adjust to the schedule, this is the way to do it.
 
 and now, around 15-30 minutes before you sleep, you should probably get in bed. you want a small buffer window to allow you to fall asleep. 
 
