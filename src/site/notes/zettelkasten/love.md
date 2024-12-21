@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/love/","updated":"2024-12-20T22:18:45.969-05:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/love/","updated":"2024-12-20T22:20:12.343-05:00"}
 ---
 
 202412202155
@@ -18,4 +18,6 @@ not only is it the case that we love by seeing these imperfections as perfect, b
 
 a precursor to love itself is to be able to be loved. it would be impossible to truly present yourself for who you are if you are unable to come to terms who your true self. therefore love begins with being able to come to terms with your own imperfections, and to see them as perfect. to begin to love others and more importantly, to accept the love of others, you must begin to accept the love of yourself. it is only after this, that you may begin to more easily present yourself to others. 
 
-thus, loving is easy, but being loved is hard. being subject to love is arguably harder, and requires a state of absolute trust and vulnerability. it is only once you are able to love and know yourself, that you may make it easier to love others but most importantly, to be loved.
+thus, loving is easy, but being loved is hard. being subject to love is arguably harder, and requires a state of absolute trust and vulnerability. it is only once you are able to love and know yourself, that you may make it easier to love others but most importantly, to be love.
+
+-chris
