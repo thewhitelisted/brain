@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/psychology-of-money/0-psychology-of-money/","updated":"2024-12-09T07:19:19.160-05:00"}
+{"dg-publish":true,"permalink":"/zettelkasten/psychology-of-money/0-psychology-of-money/","updated":"2025-01-07T18:08:04.741-05:00"}
 ---
 
 202412041300
@@ -19,3 +19,5 @@ Tags: [[books\|books]]
 ## [[zettelkasten/psychology of money/3 - never enough\|3 - never enough]]
 ## [[zettelkasten/psychology of money/4 - confounding compounding\|4 - confounding compounding]]
 ## [[zettelkasten/psychology of money/5 - getting wealthy vs staying wealthy\|5 - getting wealthy vs staying wealthy]]
+
+[[zettelkasten/psychology of money/6 - tails, you win\|6 - tails, you win]] 
